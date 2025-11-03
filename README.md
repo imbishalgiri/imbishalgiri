@@ -1,6 +1,6 @@
 
 <div class="profile-picture">
-  <p class="no-print" align="center"><img src="https://bishalgiri.com.np/public/images/bishal.jpg"  height="200px"/></p>
+  <p class="no-print" align="center"><img src="https://bishalgiri.com.np/bishal.jpg"  height="200px"/></p>
   <div>
     <p align="center"><b>Bishal Giri</b></p>
     <p align="center" class="no-site"><i>Technology enthusiast who never stops learning.</i></p>
